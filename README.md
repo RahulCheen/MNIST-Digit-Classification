@@ -3,4 +3,5 @@
 
 ## Data
 The dataset is found here https://www.kaggle.com/datasets/hojjatk/mnist-dataset
+
 To read the data I use a prewritten reader found here https://www.kaggle.com/code/hojjatk/read-mnist-dataset
